@@ -8,7 +8,20 @@
     $row_profesor = mysqli_fetch_array($query_profe); 
     # llamamos al archivo de conexion 
     
-    $sql = "SELECT `taller`.`id` AS `id`,`taller`.`taller` AS `taller`, `profesor`.`nombres` AS `nombres`, `aula`.`detalle` AS `ubicacion`,`disiplina`.`disiplina` AS `disiplina`, DATE_FORMAT(`taller`.`inicio`,'%d/%m/%y') AS `inicio`, DATE_FORMAT(`taller`.`fin`,'%d/%m/%y') AS `fin` FROM `taller`, `profesor`, `disiplina`, `aula` WHERE `aula`.`id`=`taller`.`aula_id` AND`disiplina`.`id`=`taller`.`disiplina_id` AND `profesor`.`id`=`taller`.`profesor_id` AND `taller`.`estado`='1' AND `taller`.`profesor_id` = '$id_porfesor'  ;";
+    $sql = "SELECT `taller`.`id` AS `id`,
+        `taller`.`taller` AS `taller`, 
+        `profesor`.`nombres` AS `nombres`, 
+        `aula`.`detalle` AS `ubicacion`,
+        `disiplina`.`disiplina` AS `disiplina`,
+        DATE_FORMAT(`taller`.`inicio`,'%d/%m/%y') AS `inicio`, 
+        DATE_FORMAT(`taller`.`fin`,'%d/%m/%y') AS `fin`,
+        DATE_FORMAT(`taller`.`ingreso`,'%H:%i:%s') As  `ingreso` 
+        FROM `taller`,`profesor`, `disiplina`, `aula` 
+        WHERE `aula`.`id`=`taller`.`aula_id` 
+        AND `disiplina`.`id`=`taller`.`disiplina_id` 
+        AND `profesor`.`id`=`taller`.`profesor_id` 
+        AND `taller`.`estado`='1' 
+        AND `taller`.`profesor_id` = '$id_porfesor'  ;";
     $query = mysqli_query($con, $sql);
 ?>
 <!DOCTYPE html>
@@ -115,7 +128,7 @@ while ($row = mysqli_fetch_array($query)):
                             <td><?php echo $row['disiplina'] ?></td>
                             <td><?php echo $row['inicio'] ?></td>
                             <td><?php echo $row['fin'] ?></td>
-							 <td><?php echo $row['ingreso']?></td>
+							<td><?php echo $row['ingreso']?></td>
                             <td>
                                 <a href="detalleTaller.php?id=<?php echo $row['id']; ?>" class="btn btn-success"><i class="fa fa-pencil"></i> Detalles</a>
                             </td>

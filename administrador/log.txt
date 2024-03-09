@@ -68,3 +68,7 @@
 [08-03-2024 22:06:45][usuario: administrador][Informacion]: Ingreso al área de talleres 
 [08-03-2024 22:06:49][usuario: administrador][Informacion]: ingreso al area de disciplinas
 [08-03-2024 22:06:57][usuario: ][Informacion]: Cerro la sesion
+[08-03-2024 22:42:22][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:42:26][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:42:28][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:42:30][usuario: administrador][Informacion]: Ingreso al área de talleres 

@@ -21,7 +21,7 @@
     $query_profesor = mysqli_query($con, $sql1);
     $sql2 = "SELECT * FROM `disiplina`";
     $quey_disciplina = mysqli_query($con, $sql2);
-    $sql4 = "SELECT * FROM `disiplina`";
+    $sql4 = "SELECT * FROM `aula`";
     $quey_ubicacion = mysqli_query($con, $sql4);
    
     $sql3 = "SELECT `disiplina_id`, `profesor_id`,`aula_id`, `taller`, `inicio`, `fin`, `estado`, `ingreso`, `salida` FROM `taller` WHERE `id`='$id';";

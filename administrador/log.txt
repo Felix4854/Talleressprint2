@@ -1,0 +1,70 @@
+[07-03-2024 23:30:19][Error]: no se registro el nuevo alumno con DNI:42142142, Nombre:Intihutana Game Studio, Correo: correo@correo.com
+[07-03-2024 17:32:59][Error]: no se registro el nuevo alumno con DNI:42142142, Nombre:Intihutana Game Studio, Correo: correo@correo.com
+[07-03-2024 17:35:19][Informacion]: se agrego el alumno con DNI:88888888, Nombre:nuevo nombre para que no vote error, Correo: correonoexistente@gmail.com
+[07-03-2024 22:59:31][Error]: no pudo inciar sesion con nombre de usuario: sdasda porque el nombre de usuario o contraseña son incorrectos.
+[07-03-2024 22:59:56][Información]: el usuario administrador inicio sesion.
+[07-03-2024 23:37:48][Información]: el usuario administrador inicio sesion.
+[07-03-2024 23:38:03][[usuario: ]Error]: no se registro el nuevo  alumno por que ya existen registros con DNI:42142142, Nombre:Intihutana Game Studio, Correo: correo@correo.com
+[07-03-2024 23:40:33][usuario: administrador][Error]: no se registro el nuevo  alumno por que ya existen registros con DNI:42142142, Nombre:Intihutana Game Studio, Correo: correo@correo.com
+[08-03-2024 19:26:06][usuario: administrador][Informacion]: se elimino el alumno nombre del artesano
+[08-03-2024 19:28:39][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 19:31:21][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 19:31:24][usuario: administrador][Informacion]: ingreso al area de eliminar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 19:32:10][usuario: administrador][Informacion]: ingreso al area de eliminar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 19:32:12][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 19:32:14][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 19:51:25][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 19:51:28][usuario: administrador][Informacion]: ingreso al area de nuevo usuario
+[08-03-2024 19:51:39][usuario: administrador][Informacion]: creo un nuevo usuario: Intihutana Game Studio
+[08-03-2024 19:51:39][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 19:51:44][usuario: administrador][Informacion]: ingreso al area de editar usuario: Intihutana Game Studio
+[08-03-2024 19:52:01][usuario: administrador][Informacion]: se edito la información del usuario: Intihutana Game Studio ingresando los valores: Nombre: editando nombre, Usuario: otronombre
+[08-03-2024 19:52:01][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 19:52:22][usuario: administrador][Informacion]: ingreso al area de eliminar usuario: editando nombre
+[08-03-2024 19:52:24][usuario: administrador][Informacion]: se elimino el usuario: editando nombre
+[08-03-2024 19:52:24][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 20:22:02][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 20:22:04][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 20:23:10][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 21:08:31][usuario: administrador][Informacion]: ingreso al area de aulas
+[08-03-2024 21:48:13][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:49:02][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:49:04][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 21:49:12][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:49:17][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:49:18][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 21:49:34][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 21:50:30][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:50:31][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 21:50:33][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 21:53:46][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 21:54:04][usuario: administrador][Informacion]: se modifico los valores del taller: metalurgia
+[08-03-2024 21:54:04][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:01:23][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:01:26][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:01:31][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:01:33][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:04:26][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:04:42][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 22:04:52][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 22:04:57][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 22:05:01][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:05:05][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 22:05:09][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 22:05:13][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 22:05:25][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 22:05:54][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:05:56][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:05:59][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:06:08][usuario: administrador][Informacion]: se modifico los valores del taller: metalurgia
+[08-03-2024 22:06:08][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:06:16][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:06:29][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:06:35][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:06:39][usuario: administrador][Informacion]: se modifico los valores del taller: metalurgia
+[08-03-2024 22:06:39][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:06:42][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:06:45][usuario: administrador][Informacion]: se modifico los valores del taller: metalurgia
+[08-03-2024 22:06:45][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:06:49][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 22:06:57][usuario: ][Informacion]: Cerro la sesion

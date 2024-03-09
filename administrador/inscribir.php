@@ -1,8 +1,20 @@
 <?php 
+    session_start();
     # llamamos al archivo de conexion 
     include('conexion.php');
     # instanciamos los parametros de conexion
-    $con = connection();    
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    }
+      
     $id = $_GET['id'];
     #llamamos a todos los datos la tabla usuarios
     $sql = "SELECT `taller`.`id` AS `id`,`taller`.`taller` AS `taller`, `profesor`.`nombres` AS `nombres`, `aula`.`detalle` AS `ubicacion`,`disiplina`.`disiplina` AS `disiplina`, DATE_FORMAT(`taller`.`inicio`,'%d/%m/%y') AS `inicio`, DATE_FORMAT(`taller`.`fin`,'%d/%m/%y') AS `fin`, DATE_FORMAT(`taller`.`ingreso`,'%H:%i') AS `ingreso`, DATE_FORMAT(`taller`.`salida`,'%H:%i') AS `salida` FROM `taller`, `profesor`, `disiplina`, `aula` WHERE `aula`.`id`=`taller`.`aula_id` AND`disiplina`.`id`=`taller`.`disiplina_id` AND `profesor`.`id`=`taller`.`profesor_id` AND `taller`.`estado`='1' AND `taller`.`id`='$id' ;";

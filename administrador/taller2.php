@@ -1,8 +1,19 @@
 <?php 
+    session_start();
     # llamamos al archivo de conexion 
     include('conexion.php');
     # instanciamos los parametros de conexion
-    $con = connection();    
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    } 
     #llamamos a todos los datos la tabla usuarios
     //consulta de profesor
     $id = $_GET['id'];
@@ -16,9 +27,18 @@
     $sql3 = "SELECT `disiplina_id`, `profesor_id`,`aula_id`, `taller`, `inicio`, `fin`, `estado`, `ingreso`, `salida` FROM `taller` WHERE `id`='$id';";
     $query=mysqli_query($con, $sql3);
     $rowc = mysqli_fetch_array($query);
+
+    #llamada al archivo
+    require('log.php');
+    #iniciando
+    $log = new Log("log.txt");
+    #se escribe en el archivo
+    $log->writeLine("usuario: ".$_SESSION['us_nm']."][Informacion", "ingreso al area de editar el taller: ".$rowc['taller'] );
+    #cerramos la funcion
+    $log->close();
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <title>Sistema de Tallerres</title>

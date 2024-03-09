@@ -1,3 +1,29 @@
+<?php
+    session_start();
+    # llamamos al archivo de conexion 
+    include('conexion.php');
+    # instanciamos los parametros de conexion
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    }
+   #llamada al archivo
+    require('log.php');
+    #iniciando
+    $log = new Log("log.txt");
+    $log->writeLine("usuario: ".$_SESSION['us_nm']."][Informacion", "ingreso al area de crear un nuevo alumno");
+    #cerramos la funcion
+    $log->close();
+
+   
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -71,14 +97,13 @@
                 <h2>Nuevo Alumno</h2>
             </div>
             <div class="panel-body">
-<?php 
 
-if (isset($_GET['er']) AND $_GET['er']==1){
-    echo '<div class="alert alert-danger">
-                    <h3>Error</h3>
-                    <p>Ya existe ese dni o nombres, por favor ingrese un nuevo dni</p>
-                </div>';
-}?> 
+<?php if (isset($_GET['r']) AND $_GET['r']==1){ ?>
+    <div class="alert alert-dismissable alert-danger">
+        <i class="fa fa-fw fa-times"></i>&nbsp; <strong>Error: </strong> Los datos ingresados ya se encuentran registrados
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    </div>
+<?php } ?>
                 <form  class="form-horizontal" name="nuevo" action="almg1.php" method="post" >
                     <div class="form-group">
                         <label class="col-md-2 control-label">DNI:</label>

@@ -1,11 +1,31 @@
 <?php 
+    session_start();
     # llamamos al archivo de conexion 
     include('conexion.php');
     # instanciamos los parametros de conexion
-    $con = connection();    
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    }   
     #llamamos a todos los datos la tabla usuarios
     $sql = "SELECT * FROM `profesor` WHERE `estado`=1;";
     $query = mysqli_query($con, $sql);
+
+    #llamada al archivo
+    require('log.php');
+    #iniciando
+    $log = new Log("log.txt");
+    #se escribe en el archivo
+    $log->writeLine("usuario: ".$_SESSION['us_nm']."][Informacion", "ingreso al area de profesores" );
+    #cerramos la funcion
+    $log->close();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -80,6 +100,16 @@
 <!-- -->        
         <div class="row">
     <div class="col-sm-12">
+        
+<?php if (isset($_GET['r']) AND $_GET['r']==1){ ?>                                    
+    <div class="alert alert-dismissable alert-success">
+        <i class="fa fa-fw fa-check"></i>&nbsp; <strong>Nuevo profesor: </strong> Se agrego correctamente el nuevo profesor
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    </div>
+<?php } ?>
+
+
+
         <div class="panel panel-sky">
             <div class="panel-heading">
                 <h2>Relación de profesores: </h2>

@@ -1,8 +1,20 @@
 <?php 
+    session_start();
     # llamamos al archivo de conexion 
     include('conexion.php');
     # instanciamos los parametros de conexion
-    $con = connection();    
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    }
+    
     $id = $_GET['id'];
     $sql_inscrito = "SELECT `alumno_id`, `taller_id` FROM `inscrito` WHERE `id`='$id'";
     $query_ins = mysqli_query($con, $sql_inscrito);
@@ -18,7 +30,15 @@
     $query_alum=mysqli_query($con, $sqlAlumno);
     $rowAl = mysqli_fetch_array($query_alum);
     //-------------- lista de asistencias -----------------
-   
+    #se crea el archivo para almacenar los datos
+    #llamada al archivo
+    require('log.php');
+    #iniciando
+    $log = new Log("log.txt");
+    #se escribe en el archivo
+    $log->writeLine("usuario: ".$_SESSION['us_nm']."][Informacion", "ingreso al area de nueva asistencia del alumno: ".$rowAl['nombres']);
+    #cerramos la funcion
+    $log->close();
 ?>
 <!DOCTYPE html>
 <html lang="en">

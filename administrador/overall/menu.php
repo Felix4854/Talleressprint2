@@ -11,7 +11,7 @@
                         <li><a href="talleres.php"><i class="fa fa-book"></i><span>Talleres</span></a></li>
                         <li><a href="alumnos.php"><i class="fa fa-group"></i><span>Alumnos</span></a></li>
                         <li><a href="usuarios.php"><i class="fa fa-user"></i><span>Usuario</span></a></li>
-                        <li><a href="index.php" style="background-color: #D90000; color: #FFF"><i style="color: #FFF" class="fa fa-power-off"></i><span>Salir del sistema</span></a></li>
+                        <li><a href="salir.php" style="background-color: #D90000; color: #FFF"><i style="color: #FFF" class="fa fa-power-off"></i><span>Salir del sistema</span></a></li>
                     </ul>
                 </nav>
             </div>

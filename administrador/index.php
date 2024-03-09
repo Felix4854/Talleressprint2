@@ -34,6 +34,12 @@
 		<div class="col-md-4 col-md-offset-4">
 			<div class="panel panel-default">
 				<div class="panel-heading"><h2>Iniciar sesion</h2></div>
+				<?php if (isset($_GET['r']) AND $_GET['r']==1){ ?>
+    <div class="alert alert-dismissable alert-danger">
+        <i class="fa fa-fw fa-check"></i>&nbsp; <strong>El usuario o la contraseña son incorrectos. </strong> 
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+    </div>
+<?php } ?>
 				<div class="panel-body">					
 					<form action="login.php" class="form-horizontal"  method="post" >
 						<div class="form-group">

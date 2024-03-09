@@ -1,8 +1,19 @@
 <?php 
+    session_start();
     # llamamos al archivo de conexion 
     include('conexion.php');
     # instanciamos los parametros de conexion
-    $con = connection();    
+    $con = connection();   
+    # verificar usuario logeado
+    if(isset($_SESSION['us_id']) and $_SESSION['us_id'] != 0) { 
+        $id_us = $_SESSION['us_id'];
+        $sql_usuario = "SELECT  count(*) AS `num` FROM `usuario` WHERE `estado`= 1 AND `id`='$id_us'";
+        $query_user = mysqli_query($con, $sql_usuario);
+        $rows_ins = mysqli_fetch_array( $query_user); 
+        if( $rows_ins['num'] == 0 ){    
+            header('location: index.php');
+        }
+    }  
     $id = $_GET['id'];//id del alumno
     //donde esta inscrito:
     $sql_tallinsc = "SELECT `taller_id` FROM `inscrito` WHERE `alumno_id`='$id' AND  `estado`='1'";
@@ -17,6 +28,15 @@
     $sqlAlm = "SELECT `nombres`, `usuario`, `pass`, `dni`, `correo`  FROM `alumno` WHERE `estado`='1' AND `id`='$id'";
     $query_al = mysqli_query($con, $sqlAlm);
     $rowAlm = mysqli_fetch_array($query_al);
+
+
+    #llamada al archivo
+    require('log.php');
+    #iniciando
+    $log = new Log("log.txt");
+    $log->writeLine("usuario: ".$_SESSION['us_nm']."][Informacion", "ingreso al area de detalles del alumno: ".$rowAlm['nombres']);
+    #cerramos la funcion
+    $log->close();    
 
 ?>
 <!DOCTYPE html>
@@ -82,8 +102,8 @@
         
         <div class="options">
             <div class="btn-toolbar">              
-                <a href="alumno2.php?id=<?php echo $row['id']?>" class="btn btn-success"><i class="fa fa-pencil-square-o"></i> EDITAR ALUMNO</a>
-                <a href="alumno3.php?id=<?php echo $row['id']?>" class="btn btn-danger"><i class="fa fa-trash-o"></i> ELIMINAR ALUMNO</a>
+                <a href="alumno2.php?id=<?php echo $id?>" class="btn btn-success"><i class="fa fa-pencil-square-o"></i> EDITAR ALUMNO</a>
+                <a href="alumno3.php?id=<?php echo $id?>" class="btn btn-danger"><i class="fa fa-trash-o"></i> ELIMINAR ALUMNO</a>
                 <a href="alumnos.php" class="btn btn-info"><i class="fa fa-reply"></i> REGRESAR</a>
             </div>
         </div>

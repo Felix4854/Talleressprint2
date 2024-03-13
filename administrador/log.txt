@@ -72,3 +72,313 @@
 [08-03-2024 22:42:26][usuario: administrador][Informacion]: Ingreso al área de talleres 
 [08-03-2024 22:42:28][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
 [08-03-2024 22:42:30][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:48:53][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 22:55:39][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:55:41][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:55:55][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 22:57:04][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:57:18][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 22:57:21][Información]: el usuario administrador inicio sesion.
+[08-03-2024 22:57:31][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 22:57:35][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 22:57:38][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 22:57:41][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:57:44][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 22:57:46][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 22:58:49][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 22:58:51][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 22:59:27][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:01:43][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:01:46][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:01:50][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:02:20][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[08-03-2024 23:02:23][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:02:59][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:03:08][usuario: administrador][Informacion]: ingreso al area de nuevo profesor
+[08-03-2024 23:03:10][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:03:14][usuario: administrador][Informacion]: ingreso al area de editar los datos del profesor: Gabriel Garsilazo Artiaga
+[08-03-2024 23:03:16][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:03:37][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:03:42][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:03:49][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:03:51][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:03:53][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:03:54][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:02][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:04:05][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:06][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:07][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:09][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:04:14][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:04:15][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:04:20][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:21][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:22][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:04:27][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:04:35][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:04:45][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:04:48][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:04:56][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:05:02][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:05:07][usuario: administrador][Informacion]: ingreso al area de editar usuario: administrador
+[08-03-2024 23:05:09][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:05:10][usuario: administrador][Informacion]: ingreso al area de nuevo usuario
+[08-03-2024 23:05:11][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:05:16][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:05:41][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[08-03-2024 23:05:49][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:06:01][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:06:05][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:06:14][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:06:16][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:06:19][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:06:23][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:06:25][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:06:33][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:08:01][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:08:02][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:08:12][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:08:14][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:08:26][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:08:32][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:08:35][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:08:38][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:08:39][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:08:41][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:09:10][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:09:11][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:09:18][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 23:09:19][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:09:21][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:10:24][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:10:31][usuario: administrador][Informacion]: ingreso al area de editar el taller: metalurgia
+[08-03-2024 23:10:37][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:10:54][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:10:59][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:11:00][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[08-03-2024 23:11:02][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:11:04][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:11:06][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:11:09][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:11:12][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[08-03-2024 23:11:15][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:11:19][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:11:20][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:11:23][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:12:08][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:12:09][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:12:10][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:14:07][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:14:26][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:14:29][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:14:30][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:14:35][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:14:37][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:14:39][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:14:42][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:14:43][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:17:43][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:24:14][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:24:55][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[08-03-2024 23:25:04][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:25:11][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:25:20][usuario: administrador][Informacion]: ingreso al area de nuevo profesor
+[08-03-2024 23:25:29][usuario: administrador][Informacion]: se creo un nuevo profesor con los valores: NombreJuan Alonzo Aguilar PeÃ±a, Correo: juanalonzo@gmail.com	 y Usuario: 
+[08-03-2024 23:25:29][usuario: administrador][Informacion]: ingreso al area de nuevo profesor
+[08-03-2024 23:26:36][usuario: administrador][Informacion]: se creo un nuevo profesor con los valores: NombreJuan Manuel Lopez Obrador, Correo: jaunmanu@gmail.com y Usuario: juanlop
+[08-03-2024 23:26:36][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:26:52][usuario: administrador][Informacion]: ingreso al area de editar los datos del profesor: Juan Manuel Lopez Obrador
+[08-03-2024 23:27:01][usuario: administrador][Informacion]: se modifico los valores del profesor con  Nombre:Juan Manuel Lopez Obrador
+[08-03-2024 23:27:01][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:27:06][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:27:10][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:27:24][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:27:25][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:27:31][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:27:46][usuario: administrador][Error]: no se registro el nuevo  alumno por que ya existen registros con DNI:71927328, Nombre:Felix Daniel Diaz Lozano, Correo: fdanie@gmail.com
+[08-03-2024 23:27:46][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:29:31][[usuario: administrador][Informacion]: se agrego el alumno con DNI:78963521, Nombre:Angel Valdez, Correo: abaldez@gmail.com
+[08-03-2024 23:29:31][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:29:41][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: Angel Valdez
+[08-03-2024 23:29:48][usuario: administrador][Informacion]: ingreso al area de editar el alumno: Angel Valdez
+[08-03-2024 23:29:53][Informacion]: se actualizaron los datos del alumno: Angel Valdez DNI: 78963520
+[08-03-2024 23:29:53][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: Angel Valdez
+[08-03-2024 23:30:12][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:30:20][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:30:27][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:30:30][usuario: administrador][Informacion]: ingreso al area de editar la ubicacion: A 1
+[08-03-2024 23:30:32][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:30:33][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[08-03-2024 23:30:41][usuario: administrador][Informacion]: creo una nueva ubicacion : P1
+[08-03-2024 23:30:41][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:30:44][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:30:46][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:30:51][usuario: administrador][Informacion]: ingreso al area de editar la ubicacion: P1
+[08-03-2024 23:30:54][usuario: administrador][Informacion]: se edito los valores del ubicacion: P1 por P0
+[08-03-2024 23:30:54][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:31:02][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:31:08][usuario: administrador][Informacion]: ingreso al area de nueva disciplina
+[08-03-2024 23:31:23][usuario: administrador][Informacion]: se agrego la nueva disciplina: Artes Escenicas
+[08-03-2024 23:31:23][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:31:27][usuario: administrador][Informacion]: ingreso al area editar disciplina: artes plasticas
+[08-03-2024 23:31:30][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:31:41][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:32:03][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:34:01][usuario: administrador][Informacion]: se creo un nuevo taller con el nombre: Voleyball
+[08-03-2024 23:34:01][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:34:17][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:35:21][usuario: administrador][Informacion]: ingreso al area de nuevo usuario
+[08-03-2024 23:35:42][usuario: administrador][Informacion]: creo un nuevo usuario: admin2
+[08-03-2024 23:35:42][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:35:46][usuario: administrador][Informacion]: ingreso al area de editar usuario: admin2
+[08-03-2024 23:35:58][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[08-03-2024 23:36:25][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:36:32][Información]: el usuario admin2 inicio sesion.
+[08-03-2024 23:36:40][usuario: admin2][Informacion]: ingreso al area de profesores
+[08-03-2024 23:36:46][usuario: admin2][Informacion]: ingreso al area de profesores
+[08-03-2024 23:39:30][usuario: admin2][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:39:32][usuario: admin2][Informacion]: ingreso al area de profesores
+[08-03-2024 23:39:33][usuario: admin2][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:39:35][usuario: admin2][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:39:56][usuario: admin2][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:42:30][usuario: admin2][Informacion]: Cerro la sesion
+[08-03-2024 23:42:37][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:42:40][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:42:42][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:42:45][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[08-03-2024 23:42:46][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:42:47][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:42:49][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:42:51][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:43:49][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:46:29][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:46:33][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:47:00][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:47:01][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[08-03-2024 23:48:02][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:48:04][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:48:26][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:48:27][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:48:29][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:48:57][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:49:08][usuario: administrador][Informacion]: Cerro la sesion
+[08-03-2024 23:54:10][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[08-03-2024 23:54:22][Información]: el usuario administrador inicio sesion.
+[08-03-2024 23:54:26][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:54:37][usuario: administrador][Informacion]: ingreso al area de nuevo profesor
+[08-03-2024 23:54:48][usuario: administrador][Informacion]: se creo un nuevo profesor con los valores: NombreJuan Alonzo Aguilar PeÃ±a, Correo: juanalonzo@gmail.com	 y Usuario: 
+[08-03-2024 23:54:48][usuario: administrador][Informacion]: ingreso al area de nuevo profesor
+[08-03-2024 23:55:18][usuario: administrador][Informacion]: se creo un nuevo profesor con los valores: NombreJuan Lopez Obrador, Correo: juanlop@gmail.com y Usuario: juanlop
+[08-03-2024 23:55:18][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:55:31][usuario: administrador][Informacion]: ingreso al area de editar los datos del profesor: Juan Lopez Obrador
+[08-03-2024 23:55:37][usuario: administrador][Informacion]: se modifico los valores del profesor con  Nombre:Juan Lopez Obrador
+[08-03-2024 23:55:37][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:55:54][usuario: administrador][Informacion]: ingreso al area de profesores
+[08-03-2024 23:55:59][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:56:05][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:56:08][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:56:10][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:56:31][usuario: administrador][Error]: no se registro el nuevo  alumno por que ya existen registros con DNI:71927328, Nombre:Felix Daniel Diaz Lozano, Correo: fdanie@gmail.com
+[08-03-2024 23:56:31][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[08-03-2024 23:57:19][[usuario: administrador][Informacion]: se agrego el alumno con DNI:78956345, Nombre:David Albaro Mauri, Correo: davidmaui@gmail.com
+[08-03-2024 23:57:19][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:57:32][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: David Albaro Mauri
+[08-03-2024 23:57:45][usuario: administrador][Informacion]: ingreso al area de editar el alumno: David Albaro Mauri
+[08-03-2024 23:57:51][Informacion]: se actualizaron los datos del alumno: David Albaro Mauri DNI: 78956346
+[08-03-2024 23:57:51][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: David Albaro Mauri
+[08-03-2024 23:57:53][usuario: administrador][Informacion]: ingreso al area de alumnos
+[08-03-2024 23:58:01][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:58:08][usuario: administrador][Informacion]: ingreso al area de nueva disciplina
+[08-03-2024 23:58:11][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:58:15][usuario: administrador][Informacion]: ingreso al area editar disciplina: artes plasticas
+[08-03-2024 23:58:21][usuario: administrador][Informacion]: se agrego la nueva disciplina: Artes Plasticas
+[08-03-2024 23:58:21][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[08-03-2024 23:58:31][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:58:36][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:58:41][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[08-03-2024 23:58:47][usuario: administrador][Informacion]: creo una nueva ubicacion : P1
+[08-03-2024 23:58:47][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[08-03-2024 23:58:53][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[08-03-2024 23:59:10][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[09-03-2024 00:00:23][usuario: administrador][Informacion]: se creo un nuevo taller con el nombre: Voley
+[09-03-2024 00:00:23][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 00:00:47][usuario: administrador][Informacion]: ingreso al area de editar el taller: Voley
+[09-03-2024 00:00:57][usuario: administrador][Informacion]: se modifico los valores del taller: Voley
+[09-03-2024 00:00:57][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 00:01:03][usuario: administrador][Informacion]: ingreso al area de editar el taller: Voley
+[09-03-2024 00:01:08][usuario: administrador][Informacion]: se modifico los valores del taller: Voley
+[09-03-2024 00:01:08][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 00:01:10][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[09-03-2024 00:01:25][usuario: administrador][Informacion]: ingreso al area de nuevo usuario
+[09-03-2024 00:01:45][usuario: administrador][Informacion]: creo un nuevo usuario: Supervisor
+[09-03-2024 00:01:45][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[09-03-2024 00:02:09][usuario: administrador][Informacion]: ingreso al area de eliminar usuario: nombee222
+[09-03-2024 00:02:11][usuario: administrador][Informacion]: se elimino el usuario: nombee222
+[09-03-2024 00:02:11][usuario: administrador][Informacion]: ingreso al area de usuarios  
+[09-03-2024 00:02:14][usuario: administrador][Informacion]: Cerro la sesion
+[09-03-2024 00:04:24][Información]: el usuario Supervisor inicio sesion.
+[09-03-2024 00:04:26][usuario: Supervisor][Informacion]: ingreso al area de profesores
+[09-03-2024 00:05:56][usuario: Supervisor][Informacion]: ingreso al area de usuarios  
+[09-03-2024 00:07:57][usuario: Supervisor][Informacion]: Cerro la sesion
+[09-03-2024 01:41:58][Información]: el usuario administrador inicio sesion.
+[09-03-2024 01:42:00][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 01:42:05][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 01:42:06][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 01:42:24][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[09-03-2024 01:42:26][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 01:44:10][usuario: administrador][Informacion]: ingreso al area de profesores
+[09-03-2024 01:44:10][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 01:44:11][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 01:44:12][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[09-03-2024 01:47:59][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 01:48:09][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[09-03-2024 01:48:13][usuario: administrador][Informacion]: creo una nueva ubicacion : P1
+[09-03-2024 01:48:13][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[09-03-2024 01:48:14][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 01:49:33][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 01:50:02][usuario: administrador][Informacion]: ingreso al area de editar el taller: Voley
+[09-03-2024 01:50:05][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 01:50:12][usuario: administrador][Informacion]: ingreso al area de editar el taller: Voley
+[09-03-2024 01:51:05][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 02:16:23][usuario: administrador][Informacion]: Cerro la sesion
+[09-03-2024 17:42:10][Información]: el usuario administrador inicio sesion.
+[09-03-2024 17:42:15][usuario: administrador][Informacion]: ingreso al area de profesores
+[09-03-2024 17:42:18][usuario: administrador][Informacion]: ingreso al area de profesores
+[09-03-2024 17:42:50][usuario: administrador][Informacion]: Cerro la sesion
+[09-03-2024 17:42:58][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[09-03-2024 17:50:30][Error]: no pudo inciar sesion con nombre de usuario: admin porque el nombre de usuario o contraseña son incorrectos.
+[09-03-2024 17:51:29][Información]: el usuario administrador inicio sesion.
+[09-03-2024 17:52:19][usuario: administrador][Informacion]: ingreso al area de profesores
+[09-03-2024 17:53:37][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 17:54:31][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 17:54:52][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 17:55:06][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 17:55:08][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 17:55:48][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[09-03-2024 17:56:30][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 17:56:37][usuario: administrador][Informacion]: ingreso al area de disciplinas
+[09-03-2024 17:58:57][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 17:59:00][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[09-03-2024 17:59:01][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 17:59:47][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[09-03-2024 17:59:49][usuario: administrador][Informacion]: creo una nueva ubicacion : P1
+[09-03-2024 17:59:49][usuario: administrador][Informacion]: ingreso al area de nueva ubicacion
+[09-03-2024 18:00:16][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 18:00:17][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 18:00:18][usuario: administrador][Informacion]: ingreso al area de nuevo taller
+[09-03-2024 18:02:07][usuario: administrador][Informacion]: ingreso al area de profesores
+[09-03-2024 18:02:08][usuario: administrador][Informacion]: ingreso al area de Ubicación
+[09-03-2024 18:02:10][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 18:02:11][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 18:02:13][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 18:02:13][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[09-03-2024 18:03:38][usuario: administrador][Error]: no se registro el nuevo  alumno por que ya existen registros con DNI:71927328, Nombre:Felix Daniel Diaz Lozano, Correo: fdanie@gmail.com
+[09-03-2024 18:03:38][usuario: administrador][Informacion]: ingreso al area de crear un nuevo alumno
+[09-03-2024 18:12:12][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 18:12:13][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 18:16:10][usuario: administrador][Informacion]: ingreso al area de editar el taller: Voley
+[09-03-2024 18:16:26][usuario: administrador][Informacion]: Ingreso al área de talleres 
+[09-03-2024 18:26:31][usuario: administrador][Informacion]: ingreso al area de alumnos
+[09-03-2024 18:26:33][usuario: administrador][Informacion]: ingreso al area de detalles del alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 18:26:33][usuario: administrador][Informacion]: ingreso al area de editar el alumno: AKEMY LUANNA CONDOR PEÑALOZ
+[09-03-2024 18:31:44][usuario: administrador][Informacion]: Cerro la sesion
